@@ -14,10 +14,10 @@
     "subscriptions-transport-ws": "0.9.18"
   },
   "devDependencies": {
-    "@types/react": "^17.0.0",
-    "@types/react-relay": "7.0.9",
-    "relay-compiler": "10.0.1",
-    "relay-compiler-language-typescript": "13.0.1",
-    "relay-devtools": "1.4.0"
+    "@types/react": "^17.0.3",
+    "@types/react-relay": "^11.0.0",
+    "relay-compiler": "^11.0.1",
+    "relay-compiler-language-typescript": "^13.0.6",
+    "relay-devtools": "^1.4.0"
   }
 }
