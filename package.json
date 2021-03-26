@@ -6,7 +6,8 @@
         "lint:ci": "eslint --quiet --ext .js,.ts,.tsx .",
         "lint:fix": "eslint --fix --ext .js,.ts,.tsx .",
         "prettier": "prettier",
-        "tsc": "tsc --pretty"
+        "tsc": "tsc --pretty",
+        "web": "yarn workspace @relay-talk/web start"
     },
     "workspaces": {
         "packages": [
